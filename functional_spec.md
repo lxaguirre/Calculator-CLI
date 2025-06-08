@@ -5,3 +5,9 @@ Hello, My calculator CLI app provides users with a simple yet efficient command-
   - The user is able to add two numbers and calculate their sum.
   - The user is able to subtract two numbers and calculate the difference.
   - The user is able to see a display of the result of the operation. 
+
+  ### Functional Requirements
+  - The calculator must prompt the user for an operation (Addition OR Subtraction).
+  - The calculator must promp the user for two numbers.
+  - The calculator must display the result of the operation. 
+  - The calculator must allow the user to continue to perform additional calculations after displaying the result of an operation. 
