@@ -54,7 +54,7 @@ class CLI
   end
 
   def show_closing
-    puts "Thank you for using the Calculator CLI. Goodbye!"
+    puts "Thank you for using my Calculator CLI app. Goodbye!"
   end
 
   def get_command
