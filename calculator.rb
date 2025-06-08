@@ -1,6 +1,6 @@
 # calculator.rb
 
-class calculator
+class Calculator
     def add(a, b)
         a + b
     end
